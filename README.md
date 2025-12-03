@@ -1,10 +1,3 @@
-# Demographic-Data-Analyzer
-A comprehensive data analysis project utilizing the Pandas library to explore demographic trends, salary, education, and work patterns within the Adult Income Dataset.
-That's a vital addition for any public project\! Adding a **License section** clarifies the terms under which others can use, modify, and distribute your code. I'll also add a **Contributing section**, which is standard practice to encourage community involvement.
-
-Here is the updated and expanded `README.md` content:
-
------
 
 # 📊 Demographic Data Analyzer
 
