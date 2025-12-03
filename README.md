@@ -1,4 +1,3 @@
-
 # 📊 Demographic Data Analyzer
 
 A Python project using the **Pandas library** to analyze the **Adult Income Dataset** (often derived from the U.S. Census Bureau data). This project calculates key demographic statistics related to education, race, gender, work hours, and salary.
@@ -75,19 +74,18 @@ Top occupations in India: Prof-specialty
 
 This project utilizes several powerful Pandas features for efficient data manipulation:
 
-  * pd.read_csv()`**: Reads the dataset into a DataFrame.
-  * .value_counts()`**: Used to count unique occurrences.
-  * Boolean Indexing**: Filters data based on complex conditions.
-  * .mean()` and `.min()`**: Aggregation functions.
-  * .isin()`**: Checks if an element's value is present in a list.
-  * .idxmax()`**: Finds the index label corresponding to the maximum value.
-  * .iloc[0]` and `.index[0]`**: Retrieves the value and label of the maximum result, respectively.
+  * **`pd.read_csv()`**: Reads the dataset into a DataFrame.
+  * **`.value_counts()`**: Used to count unique occurrences.
+  * **Boolean Indexing**: Filters data based on complex conditions.
+  * **`.mean()` and `.min()`**: Aggregation functions.
+  * **`.isin()`**: Checks if an element's value is present in a list.
+  * **`.idxmax()`**: Finds the index label corresponding to the maximum value.
+  * **iloc[0]` and `.index[0]`**: Retrieves the value and label of the maximum result, respectively.
+
 
 -----
-
 
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the `LICENSE` file for details.
 
-*(Note: You will need to create a separate file named `LICENSE` containing the full MIT License text to comply with this section.)*
